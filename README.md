@@ -25,6 +25,8 @@ Requirements:
 Install:
 Download the latest .dmg from Releases and drag the app to your Applications folder.
 
+[⬇️ Download VLC Practice 0.0.0.0.1](https://github.com/aendress/repo/releases/download/vlc-practice-v0.0.0.0.1/VLC_Practice.dmg)
+
 ⸻
 
 🩰 Directions
@@ -37,3 +39,5 @@ Requirements:
 
 Install:
 Download the latest .dmg from the Releases page, open it, and drag Directions.app to your Applications folder.
+
+[⬇️ Download Directions 0.0.0.0.1](https://github.com/aendress/ballet_helpers/releases/download/directions-v0.0.0.0.1/Directions.dmg)
