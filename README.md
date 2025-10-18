@@ -1,2 +1,39 @@
 # ballet_helpers
-Utilities for practice
+
+Small utilities for ballet practice for macOS. All dmgs contain a bash version and an automator app. 
+
+⸻
+
+⚠️ Note
+
+When you open Directions.app for the first time, macOS may warn that it’s from an unidentified developer.
+This is expected — the app is safe and unsigned.
+To open it, right-click (or Control-click) the app, choose Open, then click Open again when prompted.
+You’ll only need to do this once; afterward, it will open normally.
+
+⸻
+
+🎬 VLC Practice
+
+Play any segment of a video in VLC with custom start/stop times, playback speed, and optional horizontal flip.
+Perfect for mirrored practice and focused repetition.
+
+Requirements:
+	•	macOS 12 or later
+	•	VLC installed in /Applications
+
+Install:
+Download the latest .dmg from Releases and drag the app to your Applications folder.
+
+⸻
+
+🩰 Directions
+
+Audibly alternate spoken cues like “left” and “right” at any interval you choose — perfect for timing ballet combinations, turns, or drills that switch sides.
+
+Requirements:
+	•	macOS 12 or later
+	•	Built-in voice (“say” command) enabled
+
+Install:
+Download the latest .dmg from the Releases page, open it, and drag Directions.app to your Applications folder.
